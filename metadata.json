@@ -1,0 +1,6 @@
+{
+  "name": "DocScan AI",
+  "description": "Scan documents, apply image filters, convert to PDF, and process with Gemini AI (OCR, translation, summarization, smart rename).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
